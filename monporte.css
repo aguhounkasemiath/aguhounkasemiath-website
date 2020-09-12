@@ -1,0 +1,20 @@
+
+.picture{
+    width: 360px;
+    height: 340px;
+    border-radius: 100%;
+}
+h1{
+    text-align: center;
+}
+.toto{
+    text-align: center;
+}
+.tata{
+    text-align: center;
+}
+.table{
+    border: 10px black solid;
+    text-align: center;
+    background-image: url('sem.jpg');
+}
